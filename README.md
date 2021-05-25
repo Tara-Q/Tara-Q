@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tara-Q
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Full Stack Web Development at CodeYourFuture Scotland!
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: hellotaraquinn@gmail.com
 
